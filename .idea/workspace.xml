@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dcfe2677-e37e-4364-a7b5-f26e3cf0f394" name="Changes" comment="Removed link underline">
+      <change afterPath="$PROJECT_DIR$/countries-dashboard/src/app/[country]/page.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries-dashboard/src/app/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/countries-dashboard/src/app/page.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries-dashboard/src/app/page.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/countries-dashboard/src/app/page.module.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2daHlvFtFbVIrDj8q1R7joGaRYt" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.dev.executor&quot;: &quot;Run&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Applications/IntelliJ IDEA.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/countries-dashboard/src/app/[country]/detail" />
+      <recent name="$PROJECT_DIR$/countries-dashboard/src/app/[country]" />
+      <recent name="$PROJECT_DIR$/countries-dashboard/src/app/api" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/countries-dashboard/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.dev" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-20.0.2-azul-20.0.2-4caba194b151-895bf479" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dcfe2677-e37e-4364-a7b5-f26e3cf0f394" name="Changes" comment="" />
+      <created>1710239424532</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710239424532</updated>
+      <workItem from="1710239425895" duration="123000" />
+      <workItem from="1710242655258" duration="199000" />
+      <workItem from="1710359746566" duration="969000" />
+      <workItem from="1710360759602" duration="622000" />
+      <workItem from="1710361461333" duration="3728000" />
+      <workItem from="1710366005632" duration="90000" />
+      <workItem from="1710366125404" duration="1950000" />
+      <workItem from="1710397654071" duration="1752000" />
+      <workItem from="1710412588912" duration="51000" />
+      <workItem from="1710412691504" duration="3601000" />
+      <workItem from="1710482195426" duration="5708000" />
+      <workItem from="1710761871868" duration="5359000" />
+      <workItem from="1710793679726" duration="877000" />
+      <workItem from="1710834850909" duration="2770000" />
+    </task>
+    <task id="LOCAL-00001" summary="Unversioned Files">
+      <option name="closed" value="true" />
+      <created>1710359886484</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710359886484</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Update">
+      <option name="closed" value="true" />
+      <created>1710359897400</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710359897400</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Get API info">
+      <option name="closed" value="true" />
+      <created>1710359908969</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1710359908969</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Print API data">
+      <option name="closed" value="true" />
+      <created>1710359927592</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1710359927592</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Update .xml">
+      <option name="closed" value="true" />
+      <created>1710360452751</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1710360452751</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Update .xml">
+      <option name="closed" value="true" />
+      <created>1710362637893</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1710362637893</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Details button">
+      <option name="closed" value="true" />
+      <created>1710362733073</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1710362733073</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Globals css">
+      <option name="closed" value="true" />
+      <created>1710362738550</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1710362738550</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Card design">
+      <option name="closed" value="true" />
+      <created>1710362753039</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1710362753039</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Card button design">
+      <option name="closed" value="true" />
+      <created>1710362764183</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1710362764183</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Primary colors change">
+      <option name="closed" value="true" />
+      <created>1710363300214</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1710363300214</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Country button re-do pt.1">
+      <option name="closed" value="true" />
+      <created>1710363328135</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1710363328135</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Removed useless code">
+      <option name="closed" value="true" />
+      <created>1710363335315</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1710363335315</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Update .xml">
+      <option name="closed" value="true" />
+      <created>1710363343636</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1710363343636</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Update .xml">
+      <option name="closed" value="true" />
+      <created>1710363802631</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1710363802631</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Info H2">
+      <option name="closed" value="true" />
+      <created>1710363829361</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1710363829361</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Card &amp; Text redesign">
+      <option name="closed" value="true" />
+      <created>1710363939623</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1710363939623</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Update .xml">
+      <option name="closed" value="true" />
+      <created>1710482368985</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1710482368985</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Removed link underline">
+      <option name="closed" value="true" />
+      <created>1710482395243</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1710482395243</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Unversioned Files" />
+    <MESSAGE value="Update" />
+    <MESSAGE value="Get API info" />
+    <MESSAGE value="Print API data" />
+    <MESSAGE value="Details button" />
+    <MESSAGE value="Globals css" />
+    <MESSAGE value="Card design" />
+    <MESSAGE value="Card button design" />
+    <MESSAGE value="Primary colors change" />
+    <MESSAGE value="Country button re-do pt.1" />
+    <MESSAGE value="Removed useless code" />
+    <MESSAGE value="Info H2" />
+    <MESSAGE value="Card &amp; Text redesign" />
+    <MESSAGE value="Update .xml" />
+    <MESSAGE value="Removed link underline" />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed link underline" />
+  </component>
+</project>
